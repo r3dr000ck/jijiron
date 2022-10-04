@@ -10,7 +10,7 @@
   - "授業"にフォーカスし、discussion-basedな授業がプログラミングで有効か調べる
 
 # 提案
-- Discussion-Based Learningを用いた授業  
+- [Discussion-Based Learningを用いた授業](https://github.com/r3dr000ck/jijiron/blob/main/TEACH/PLAN.md)  
 
 
 [^1]: [教育の情報化ビジョン](https://school-ict.nlk.jp/file_count/2_vision.pdf)
